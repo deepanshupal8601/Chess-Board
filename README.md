@@ -9,6 +9,5 @@
 - When you run on live server it will open Brower
 - To see Chessboard .
   
-## Contributing
-Pull requests welcome. Bugs report karne ke liye issue create karein.
+
 
